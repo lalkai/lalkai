@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Copter
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Satjawat
 ==============================================================================================================================
 
 I am a passionate individual with a keen interest in computer usage and programming. During my early high school years, I created a YouTube channel related to gaming called "STΛRT THE GΛME ᵀᵛ" which has gathered more than 50,000+ subscribers. Additionally, during my university studies, I have served as a teacher assistant. My specific interests are machine learning, natural language processing, and back-end web development.
